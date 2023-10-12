@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TiffanySeptember
+- 👀 I’m interested in exploring the world and unraveling the endless possibilities in the technology landscape. Whether I'm setting off on adventures to new destinations or diving into the intricacies of coding, I find joy in the journey and the visuals it produces.
+- 🌱 I’m currently learning software development with HTML, CSS and Javacript. I am also learning how to conduct myself in a professional environment while working on my communication skills, time management, and adapting to collaborative team dynamics.
+- 💞️ I’m looking to broaden my technical knowledge and to learn more about how to create the latest technology in the modern world.
+- 📫 How to reach me tiffanyseptember30@gmail.com
